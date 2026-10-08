@@ -12,7 +12,6 @@ void freq(char str[]){
                 count++;
             }
         }
-
         if(count > maxCount){
             maxCount=count;
             mostFreq=str[i];
